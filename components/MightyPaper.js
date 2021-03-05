@@ -1,7 +1,7 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Paper from '@material-ui/core/Paper';
-import Image from 'next/Image'
+import Image from 'next/image'
 
 const useStyles = makeStyles({
   root: {
